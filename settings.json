@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "winzuxzvier.aternos.me",
+    "ip": "winzuxzvier.aternos.me:30752",
     "port": 30752,
     "version": "",
     "try-creative": false
